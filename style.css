@@ -1,4 +1,5 @@
 .center {
+    position: absolute;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,4 +18,14 @@
 #duke {
     margin: 10px;
     border-bottom: solid lightgray;
+}
+
+#tech-div {
+    position: absolute;
+    text-align: center;
+}
+
+.tech {
+    width: 100px;
+    margin: 10px;
 }
